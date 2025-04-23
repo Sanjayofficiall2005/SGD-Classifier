@@ -68,7 +68,9 @@ random_state=42)
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/a958c00b-3a2c-468b-b658-8a9751aa88a2)
+
 ![image](https://github.com/user-attachments/assets/eb5f2255-03c0-4668-9319-83236ca730ed)
+
 ![image](https://github.com/user-attachments/assets/3ea569a7-4fd2-4a2c-9dfc-6332f19150d1)
 
 
